@@ -4,7 +4,7 @@
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
         <title>{% block title %}Welcome!{% endblock %}</title>
-        <link rel="icon" type="image/x-icon" href="/images/BeeDigital.ico" />
+        <link rel="icon" type="image/x-icon" href=" {{ asset('images/BeeDigital.ico')}} " />
 
         {% block stylesheets %}
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -20,8 +20,8 @@
         <div class="container">
             <div class="container-lg">
                 <a class="navbar-brand " href="/">
-                    <img src=" images/beeone.png " class="img-fluid" alt="Logo Bee Digital" style="width: 55px; height:55px" />
-                    <img src=" images/beeonedigital.png" class="img-fluid" alt="Logo Bee Digital" style="width: 70px; height:15px" />
+                    <img src=" {{ asset('images/beeone.png')}} " class="img-fluid" alt="Logo Bee Digital" style="width: 55px; height:55px" />
+                    <img src=" {{ 'images/beeonedigital.png' }} " class="img-fluid" alt="Logo Bee Digital" style="width: 70px; height:15px" />
                 </a>
                 <button class="navbar-toggler " type="button" data-toggle="collapse" data-target="#navbarResponsive"><i class="fas fa-bars pl-2"></i>
                 </button>
