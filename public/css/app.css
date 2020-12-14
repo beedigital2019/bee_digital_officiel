@@ -113,13 +113,16 @@ div.form-contact{
 }
 /* Partie mobile */
 @media only screen and (max-width: 768px) {
+    nav.navbar{
+            background-color:#fff !important;
+    }
     img.img-logo {
-        width: 30px !important;
-        height: 30px !important;
+        width: 40px !important;
+        height: 40px !important;
     }
     img.img-text {
-        width: 50px !important;
-        height: 15px !important;
+        width: 70px !important;
+        height: 35px !important;
     }
     a.nav-link{ 
     color: #203779 !important;
@@ -154,7 +157,7 @@ div.form-contact{
     }
     div.services p, div.qui-sommes-nous p, div.contact p{
     font-weight: 400;
-    font-size: 1em;
+    font-size: 1.1em;
     text-align: justify;
     }
     i.fa-stack-2x {
