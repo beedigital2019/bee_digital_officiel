@@ -116,14 +116,14 @@ div.form-contact{
     nav.navbar{
             background-color:#fff !important;
     }
-    img.img-logo {
+    /* img.img-logo {
         width: 40px !important;
         height: 40px !important;
     }
     img.img-text {
         width: 70px !important;
         height: 35px !important;
-    }
+    } */
     a.nav-link{ 
     color: #203779 !important;
     font-size: 1em !important;
