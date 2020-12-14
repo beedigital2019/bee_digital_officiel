@@ -113,6 +113,14 @@ div.form-contact{
 }
 /* Partie mobile */
 @media only screen and (max-width: 768px) {
+    img.img-logo {
+        width: 30px !important;
+        height: 30px !important;
+    }
+    img.img-text {
+        width: 50px !important;
+        height: 15px !important;
+    }
     a.nav-link{ 
     color: #203779 !important;
     font-size: 1em !important;
