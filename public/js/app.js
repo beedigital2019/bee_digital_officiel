@@ -88,7 +88,7 @@ form.addEventListener("submit", function(e){
     xhr.onreadystatechange = function () {
        if(this.readyState == 4 && this.status == 200){
             console.log(this.responseText);
-            var res  = JSON.parse(this.responseText);
+            var res  = this.responseText;
             if(res.success){
                 console.log(res.success);
                 var champs = form.querySelectorAll('textarea , input')
@@ -118,7 +118,8 @@ form.addEventListener("submit", function(e){
         //     alert('une erreur est survenue ...')
         // }
     };
-    xhr.open("POST", "/", true);
+    const url = this.getAttribute("action");
+    xhr.open("POST", url, true);
     // xhr.responseType = "json";
     xhr.setRequestHeader("X-Requested-With", "xmlhttprequest")
     xhr.send(data);

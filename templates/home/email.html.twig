@@ -1,0 +1,30 @@
+<style>
+    h3 {
+        text-align: center;
+        font-size: 2em;
+    }
+    hr {
+        width: 50%;
+        text-align: center;
+        margin-bottom: 20px;
+    }
+    .span-titre {
+        font-size: 1.5em;
+        font-weight: 500;
+    }
+    .span-content {
+        font-size: 1.3em;
+        font-weight: 400;
+    }
+</style>
+
+<div class="container">
+    <h3>Demande d'information</h3>
+    <hr>
+    <span class="span-titre">Prenom: </span> <span class="span-content">{{ user.prenom }}</span><br><br>
+    <span class="span-titre">Nom: </span> <span class="span-content">{{ user.nom }}</span><br><br>
+    <span class="span-titre">Email: </span> <span class="span-content">{{ user.email }}</span><br><br>
+    <span class="span-titre">Téléphone: </span> <span class="span-content">{{ user.telephone }}</span><br><br>
+    <span class="span-titre">Message: </span><br> <span class="span-content">{{ user.message }}</span>
+</div>
+
