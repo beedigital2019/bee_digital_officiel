@@ -126,14 +126,6 @@ div.form-contact{
     nav.navbar{
             background-color:#fff !important;
     }
-    /* img.img-logo {
-        width: 40px !important;
-        height: 40px !important;
-    }
-    img.img-text {
-        width: 70px !important;
-        height: 35px !important;
-    } */
     a.nav-link{ 
     color: #203779 !important;
     font-size: 1em !important;
@@ -143,7 +135,6 @@ div.form-contact{
        color: #2882df; 
     }
     a.nav-link{ 
-        float: right;
         font-size: 0.9em !important;
     } 
     .banniere img{
