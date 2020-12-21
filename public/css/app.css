@@ -4,6 +4,13 @@ body {
     margin: 0;
     box-sizing: border-box;
 }
+img.whatsapp-api{
+  float: left;
+  position: fixed;
+  right:15px;
+  bottom:2px;
+  z-index: 10;
+}
 div.msg-success{
     margin-bottom: -20px !important;
 }
