@@ -5,8 +5,8 @@
     <meta charset="UTF-8">
     <link rel="icon" type="image/x-icon" href="/images/logobee2fico.svg" sizes="32x32" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Bee Digital</title>
-
+    <title name="google741e6035ddb87ddb.html">Bee Digital</title>
+    <meta name="google-site-verification" content="bLxyofCRC1KqCO9CHpNJ_qqkvfoo9fJHJ79Nr1aIGd0" />
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Sofia">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.9.0/css/all.css">
@@ -59,33 +59,33 @@
             Notre structure Bee Digital s’engage à vous offrir ses services pour vous aider à vous adapter aux changements pour
             rester compétitif ou de faire évoluer votre activité digitale..
         </p>
-        <div class="col-md-10 mx-auto">
-            <div class="row ">
-                <div class="col-md-4 text-center titre reveal ">
+        <div class="col-md-12 mx-auto">
+            <div class="row mt-5">
+                <div class="col-md-12 col-lg-4 text-center titre reveal ">
                     <span class="fa-stack fa-4x reveal-1 ">
                         <i class="fas fa-circle fa-stack-2x "></i>
                         <i class=" fas fa-code fa-stack-1x fa-inverse"></i>
                     </span>
                     <h4 class="my-3 text-muted reveal-2">Web et Mobile</h4>
-                    <p class="text-muted reveal-3">
+                    <p class="text-muted text-justify reveal-3">
                         Le site web est la meilleure représentation de votre entreprise en ligne.
                         Il doit donc refléter vos valeurs ainsi que vos compétences.
 
                         Améliorez l'expérience de vos prospects et clients à
                         travers des sites web optimisés.
 
-                        Notre équipe d'experts présentent les atouts fonctionnels
+                        Notre équipe d'experts présente les atouts fonctionnels
                         et techniques pour vous permettre de gagner en temps et d'être plus rentable.
                     </p>
                     <!-- <a href="#" class="btn btn-outline-primary">Lire la suite</a> -->
                 </div>
-                <div class="col-md-4 text-center titre reveal">
+                <div class="col-md-12 col-lg-4 text-center titre reveal">
                     <span class="fa-stack fa-4x reveal-1">
                         <i class="fas fa-circle fa-stack-2x "></i>
                         <i class="fas fa-desktop fa-stack-1x fa-inverse"></i>
                     </span>
-                    <h4 class="my-3 text-muted reveal-2">Graphique Design</h4>
-                    <p class="text-muted reveal-3">
+                    <h4 class="my-3 text-muted reveal-2">Design Graphique</h4>
+                    <p class="text-muted text-justify reveal-3">
                         Bee Digital est une équipe professionnelle qui conçoit des solutions de communication visuelle. Il
                         travaille sur
                         le sens des messages à l'aide des formes graphiques qu'il utilise sur tout type de supports. Il est
@@ -97,13 +97,13 @@
                     </p>
                     <!-- <a href="#" class="btn btn-outline-primary">Lire la suite</a> -->
                 </div>
-                <div class="col-md-4 text-center titre reveal">
+                <div class="col-md-12 col-lg-4 text-center titre reveal">
                     <span class="fa-stack fa-4x reveal-1">
                         <i class="fas fa-circle fa-stack-2x "></i>
                         <i class="fas fa-cogs fa-stack-1x fa-inverse"></i>
                     </span>
                     <h4 class="my-3 text-muted reveal-2">Maintenance</h4>
-                    <p class="text-muted reveal-3">
+                    <p class="text-muted text-justify reveal-3">
                         Bee Digital répond à plusieurs objectifs : préserver les performances des matériels et logiciels, mettre
                         à jour
                         le système informatique et bien évidemment corriger les éventuels problèmes du parc informatique. Un
@@ -123,7 +123,7 @@
         <div class="row reveal">
             <div class="col-md-4 reveal-1">
                 <div class="card mb-4 shadow-sm">
-                    <img src="/images/beedigitalpunch2.jpg" class="img-fluid" alt="image Bee digital" width="100%">
+                    <img src="/images/beecontact.jpg" class="img-fluid" alt="image Bee digital" width="100%">
                 </div>
             </div>
             <div class="col-md-4 reveal-2">
@@ -151,14 +151,14 @@
                 ses services pour vous aider à vous adapter aux changements pour rester compétitif ou de faire évoluer votre
                 activité digitale.
                 Ainsi une équipe composée d’experts fédérant leur savoir-faire dans le numérique vous propose ses services
-                dans: <strong>Création site web</strong> - <strong>Création application web et mobile</strong> - <strong>Graphique Design</strong> - <strong>Création des spots publicitaires</strong> - <strong>Maintenance Informatique</strong>
+                dans: <strong>Création site web</strong> - <strong>Création application web et mobile</strong> - <strong>Design Graphique</strong> - <strong>Création des spots publicitaires</strong> - <strong>Maintenance Informatique</strong>
             </p>
             <div class="row text-center ">
                 <div class="col-sm-12 col-md-4 col-lg-2 mx-auto ">
                     <div class="notre-equipe reveal">
-                        <img class="mx-auto rounded-circle mt-5 reveal-1" src="/images/4.jpeg" width="165px" height="165px" alt="" />
+                        <img class="mx-auto rounded-circle mt-5 reveal-1" src="/images/4.jpeg" width="165px" height="165px" alt="Image de profil Mohamadou lamine Dia" />
                         <h4 class="reveal-2">Mohamadou lamine Dia</h4>
-                        <p class="text-muted reveal-3">Développeur Full Stack</p>
+                        <p class="text-muted  reveal-3">Développeur Full Stack</p>
 
                         <a class=" mx-2" href="https://www.linkedin.com/in/mohamadou-lamine-26b80a1a1">
                             <img src="/images/linkedinbeedigital.png " class="" alt="Image linkedin">
@@ -168,7 +168,7 @@
                 </div>
                 <div class="col-sm-12 col-md-4 col-lg-2 mx-auto ">
                     <div class="notre-equipe reveal">
-                        <img class="mx-auto rounded-circle mt-5 reveal-1" src="/images/8.jpg" width="165px" height="165px" alt="" />
+                        <img class="mx-auto rounded-circle mt-5 reveal-1" src="/images/8.jpg" width="165px" height="165px" alt="Image de profil Malick Diakhaté" />
                         <h4 class="reveal-2">Malick Diakhaté</h4>
                         <p class="text-muted reveal-3">Designer Web</p>
 
@@ -180,9 +180,9 @@
                 </div>
                 <div class="col-sm-12 col-md-4 col-lg-2 mx-auto ">
                     <div class="notre-equipe reveal">
-                        <img class="mx-auto rounded-circle mt-5 reveal-1" src="/images/6.jpeg" width="165px" height="165px" alt="" />
+                        <img class="mx-auto rounded-circle mt-5 reveal-1" src="/images/6.jpeg" width="165px" height="165px" alt="Image de profil Amadou Tidjane Ba" />
                         <h4 class="reveal-2">Amadou Tidjane Ba</h4>
-                        <p class="text-muted reveal-3">Développeur Full Stack</p>
+                        <p class="text-muted  reveal-3">Développeur Full Stack</p>
 
                         <a class=" mx-2" href="http://www.linkedin.com/in/amadou-tidjane-ba-6267421b8">
                             <img src="/images/linkedinbeedigital.png " class="" alt="Image linkedin">
@@ -192,7 +192,7 @@
                 </div>
                 <div class="col-sm-12 col-md-4 col-lg-2 mx-auto ">
                     <div class="notre-equipe reveal">
-                        <img class="mx-auto rounded-circle mt-5 reveal-1" src="/images/5.jpeg" width="165px" height="165px" alt="" />
+                        <img class="mx-auto rounded-circle mt-5 reveal-1" src="/images/5.jpeg" width="165px" height="165px" alt=" Images de profil Abdourahmane Baldé" />
                         <h4 class="reveal-2">Abdourahmane Baldé</h4>
                         <p class="text-muted reveal-3">Développeur Full Stack</p>
 
@@ -204,7 +204,7 @@
                 </div>
                 <div class="col-sm-12 col-md-4 col-lg-2 mx-auto  ">
                     <div class="notre-equipe reveal">
-                        <img class="mx-auto rounded-circle mt-5 reveal-1" src="/images/7.jpg" width="165px" height="165px" alt="" />
+                        <img class="mx-auto rounded-circle mt-5 reveal-1" src="/images/7.jpg" width="165px" height="165px" alt="Image de Profil Cheikh Dieng" />
                         <h4 class="reveal-2">Cheikh Dieng</h4>
                         <p class="text-muted reveal-3">Développeur Full Stack</p>
 
@@ -241,7 +241,7 @@
                                 <div class=" my-3">
                                     <div class="col-md-12">
                                         <div class="row reveal-1">
-                                            <div class="col-sm-1 col-md-12 mb-2">
+                                            <div class="col-md-12 mb-2">
                                                 <label class="sr-only" for="prenom">Prénom</label>
                                                 <div class="input-group">
                                                     <div class="input-group-prepend">
@@ -253,7 +253,7 @@
 
                                         </div>
                                         <div class="row mt-2 reveal-2">
-                                            <div class="col-sm-1 col-md-12">
+                                            <div class="col-md-12">
                                                 <label class="sr-only" for="nom">Nom</label>
                                                 <div class="input-group">
                                                     <div class="input-group-prepend">
