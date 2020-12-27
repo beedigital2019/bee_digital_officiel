@@ -6,7 +6,7 @@
     <link rel="icon" type="image/x-icon" href="/images/logobee2fico.svg" sizes="32x32" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title name="google741e6035ddb87ddb.html">Bee Digital</title>
-    <meta name="google-site-verification" content="bLxyofCRC1KqCO9CHpNJ_qqkvfoo9fJHJ79Nr1aIGd0" />
+    <meta name="google-site-verification" content="I6omn-gYcR5X6M_MpLX8vZmxauGOnFRoG_5FDUPMI44" />
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Sofia">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.9.0/css/all.css">
